@@ -57,6 +57,7 @@ header{
     font-size: 30px;
     text-align: center;
     margin-bottom: 25px;
+    text-transform: capitalize;
 }
 .donate-description{
     font-size: 15px;
@@ -84,4 +85,27 @@ header{
     color: rgb(101, 100, 100);
     font-weight: bold;
     font-size: 15px;
+    margin-bottom: 50px;
+}
+.span{
+    border: 1px solid red;
+}
+.sub-title{
+    text-align: center;
+    color: gray;
+    font-size: 13px;
+    font-weight: 200;
+    word-spacing: 3px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.line{
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+    background-color: rgb(238, 233, 233);
+    margin-bottom: 20px;
+}
+.main-section .primary-btn{
+    margin-left: 45%;
 }
