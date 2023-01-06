@@ -109,3 +109,115 @@ header{
 .main-section .primary-btn{
     margin-left: 45%;
 }
+/* donate plan area */
+.main-part{
+    display: flex;
+    gap: 30px;
+    padding: 0px 50px;
+    margin-left: 4%;
+}
+.main-part .part-1{
+    width: 300px;
+    background-color: rgb(208, 222, 228);
+    padding: 30px;
+    border-radius: 8px;
+}
+.part-two{
+    width: 300px;
+    padding: 30px;
+    background-color: rgb(240, 215, 218);
+    border-radius: 8px;
+}
+.part-three{
+    width: 300px;
+    padding: 30px;
+    background-color: rgb(232, 216, 194);
+    border-radius: 8px;
+}
+.image{
+    width: 40px;
+    height: auto;
+    margin-bottom: 20px;
+}
+.blog-title{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.blog-description{
+    font-size: 15px;
+    font-weight: 300;
+    color: rgb(108, 102, 102);
+}
+/* Contribution design */
+.contribution-section{
+    width: 85%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 9%;
+    margin-bottom: 100px;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+.article{
+    width: 350px;
+}
+.article h3{
+    font-size: 27px;
+    margin-bottom: 15px;
+}
+.article .article-blog{
+    font-size: 13px;
+    font-weight: 400;
+    color: rgb(96, 93, 93);
+    margin-bottom: 15px;
+}
+.article .article-blog2{
+    font-size: 13px;
+    font-weight: 400;
+    color: rgb(96, 93, 93);
+    margin-bottom: 15px;
+}
+.btn{
+    border: 0;
+    padding: 15px 30px;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    font-size: 15px;
+}
+/* Form  */
+.form{
+    background-color:burlywood;
+    width: 60%;
+    padding: 60px 40px;
+    margin-left: 20%;
+}
+.form input{
+    margin-left: 110px;
+    padding: 11px 40px;
+    border: none;
+    background-color: rgb(223, 215, 215);
+}
+.form button{
+    padding: 11px 30px;
+    background-color: coral;
+    color: white;
+    border: none;
+}
+/* footer section*/
+footer{
+    background-color: black;
+    padding: 30px 0px;
+    text-align: center;
+}
+footer h3{
+    color: red;
+    font-size: 25px;
+}
+footer p{
+    color: white;
+    font-size: 10px;
+    font-weight: 200;
+}
